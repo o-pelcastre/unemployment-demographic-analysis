@@ -1,0 +1,7 @@
+matplotlib
+numpy
+statsmodels
+seaborn
+ruptures
+mplcursors
+re

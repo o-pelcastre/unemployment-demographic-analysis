@@ -1,0 +1,24 @@
+# Policy Changes Related to Unemployment
+
+This document summarizes key policy changes that have impacted unemployment rates in the United States over the years. It provides context for the analysis conducted in the accompanying Jupyter notebook.
+
+## Key Policy Changes
+
+1. **American Recovery and Reinvestment Act (ARRA) - 2009**
+   - Enacted in response to the Great Recession, this act aimed to stimulate the economy through various measures, including tax cuts, expansion of unemployment benefits, and funding for public works projects.
+
+2. **Affordable Care Act (ACA) - 2010**
+   - While primarily a healthcare reform, the ACA had implications for employment, particularly in the healthcare sector, and influenced job creation and retention.
+
+3. **Tax Cuts and Jobs Act - 2017**
+   - This legislation aimed to boost economic growth through tax cuts for individuals and businesses, which had varying effects on employment rates across different sectors.
+
+4. **COVID-19 Relief Packages - 2020**
+   - Multiple relief packages were enacted to address the economic fallout from the COVID-19 pandemic, including direct payments to individuals, enhanced unemployment benefits, and support for small businesses.
+
+5. **Infrastructure Investment and Jobs Act - 2021**
+   - This act focuses on rebuilding America’s infrastructure, which is expected to create jobs and reduce unemployment in the construction and related sectors.
+
+## Conclusion
+
+Understanding these policy changes is crucial for analyzing their effects on unemployment rates across different demographic groups. The accompanying analysis in the Jupyter notebook leverages this context to explore trends and disparities in unemployment.
