@@ -107,5 +107,3 @@ Omar Pelcastre
 📫 [LinkedIn](https://www.linkedin.com/in/opelcastre/)
 📁 [Portfolio](https://github.com/o-pelcastre)
 🌐 [Website](omarpelcastrecabrera.com)
-
-
