@@ -53,6 +53,9 @@ This project analyzes U.S. unemployment rates by age, gender, and race using off
 #### Unemployment by Demographic Group
 <img src="./notebook/demographic_trends.png" width="700"/>
 
+#### Change Point Detection 
+<img src="./notebook/changepoint_withcontext.png" width="700"/>
+
 ---
 
 ## 🧠 Key Takeaways
