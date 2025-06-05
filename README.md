@@ -48,10 +48,10 @@ This project analyzes U.S. unemployment rates by age, gender, and race using off
 ## 📈 Visual Examples
 
 #### Forecast Plot (SARIMA)
-<img src="./notebooks/sarima_forecast.png" width="700"/>
+<img src="./notebook/sarima_forecast.png" width="700"/>
 
 #### Unemployment by Demographic Group
-<img src="./notebooks/demographic_trends.png" width="700"/>
+<img src="./notebook/demographic_trends.png" width="700"/>
 
 ---
 
