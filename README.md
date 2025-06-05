@@ -76,7 +76,7 @@ Launch the Notebook:
 jupyter notebook
 
 Or view the HTML version of the final notebook:
-📄 [View HTML Analysis](./exports/unemployment-analysis.html)
+📄 [View HTML Analysis](./unemployment_rate_analysis.html)
 
 ---
 
