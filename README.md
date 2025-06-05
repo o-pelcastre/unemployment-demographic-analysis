@@ -13,7 +13,6 @@ A time series analysis of U.S. unemployment trends across demographic groups usi
 - [Visual Examples](#visual-examples)
 - [Key Takeaways](#key-takeaways)
 - [Usage](#usage)
-- [Repository Structure](#repository-structure)
 - [License](#license)
 - [Author](#author)
 
@@ -81,19 +80,6 @@ jupyter notebook
 Or view the HTML version of the final notebook:
 📄 [View HTML Analysis](https://nbviewer.org/github/o-pelcastre/unemployment-demographic-analysis/blob/main/notebook/Unemployment%20Rate%20-%20Demographic%20Analysis.ipynb)
 
----
-
-## 📁 Repository Structure
-unemployment-demographic-analysis/
-├── notebooks/
-│   └── Unemployment Rate - Demographic Analysis.ipynb
-├── reports/
-│   └── Policy_Changes_Unemployment_Summary.txt
-├── exports/
-│   └── unemployment-analysis.html
-├── requirements.txt
-├── README.md
-└── banner.png  # Optional visual header
 
 ---
 
