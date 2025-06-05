@@ -4,28 +4,24 @@ This document summarizes key policy changes that have impacted unemployment rate
 
 ## Key Policy Changes
 
-February 2009 – Peak of the Great Recession
-In February 2009, the U.S. unemployment rate rose to 8.1%, marking a significant increase from the previous year. The American Recovery and Reinvestment Act (ARRA) was enacted shortly after, aiming to stimulate the economy through tax cuts, expansion of unemployment benefits, and funding for public works projects. 
+February 2009 – American Recovery and Reinvestment Act (ARRA)
+The U.S. unemployment rate peaked at 8.1% amid the Great Recession. In response, the ARRA was enacted to stimulate economic growth through tax cuts, expanded unemployment benefits, and infrastructure spending.
 
+January 2012 – Continued Recovery with Slow Progress
+No major new legislation occurred immediately before January 2012, but the U.S. economy was in a slow recovery phase from the 2008 crisis. Policies already in effect, such as ARRA and Federal Reserve stimulus programs, continued to influence unemployment trends.
 
-August 2011 – Debt Ceiling Crisis and Economic Stagnation
-The unemployment rate remained at 9.1% in August 2011 amid concerns over the U.S. debt ceiling crisis. The Budget Control Act was passed to resolve the crisis, introducing spending cuts that some economists feared could hinder job growth. 
+December 2014 – Effects of Federal Reserve Policies
+The unemployment rate continued to decline due to sustained economic growth and accommodative monetary policies by the Federal Reserve. No new fiscal policies were enacted immediately before this date, but prior measures and a stable recovery environment helped improve employment figures.
 
+June 2017 – Regulatory Rollbacks Begin
+Leading into mid-2017, the new administration prioritized deregulation and tax reform planning. While major legislation had yet to be passed, expectations of pro-business policies contributed to market confidence and gradual job growth.
 
-February 2014 – Gradual Recovery Post-Recession
-By February 2014, the unemployment rate had decreased to 6.7%. The economy added 175,000 jobs that month, reflecting ongoing recovery efforts, including Federal Reserve policies aimed at stimulating growth. 
+May 2020 – CARES Act in Response to COVID-19
+Unemployment spiked due to the COVID-19 pandemic. The CARES Act, passed in March 2020, provided expanded unemployment benefits, direct stimulus payments, and support for businesses, helping to ease the impact in subsequent months like May.
 
+August 2021 – Slower Recovery Amid Delta Variant
+By August 2021, the unemployment rate had declined to 5.2%. Recovery efforts continued under the American Rescue Plan, though concerns over the Delta variant contributed to slower job growth and uncertainty in the labor market.
 
-August 2016 – Steady Employment Growth
-In August 2016, the unemployment rate held steady at 4.9%. The economy added 151,000 jobs, indicating consistent, albeit moderate, employment growth during this period. 
-
-
-May 2020 – COVID-19 Pandemic Impact
-The unemployment rate in May 2020 was reported at 13.3%, a decrease from April's 14.7%, though actual figures may have been higher due to data collection challenges. The CARES Act provided economic relief, including expanded unemployment benefits and stimulus payments, to mitigate the pandemic's impact. 
-
-
-August 2021 – Recovery Amid Delta Variant Concerns
-By August 2021, the unemployment rate had declined to 5.2%. Job growth slowed, with 235,000 jobs added, as the Delta variant of COVID-19 raised concerns about the pace of economic recovery. 
 
 ## Conclusion
 
