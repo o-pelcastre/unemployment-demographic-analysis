@@ -79,7 +79,7 @@ Launch the Notebook:
 jupyter notebook
 
 Or view the HTML version of the final notebook:
-📄 [View HTML Analysis](./exports/unemployment_rate_analysis.html)
+📄 [View HTML Analysis](https://nbviewer.org/github/o-pelcastre/unemployment-demographic-analysis/blob/main/notebook/Unemployment%20Rate%20-%20Demographic%20Analysis.ipynb)
 
 ---
 
