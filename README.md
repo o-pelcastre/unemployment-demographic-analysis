@@ -1,39 +1,34 @@
-# Unemployment Demographic Analysis
+📊 Unemployment Demographic Analysis
+This project presents an in-depth time series analysis of U.S. unemployment rates across different demographic groups using Python. It demonstrates skills in economic data analysis, visualization, and forecasting using statistical and machine learning tools.
 
-## Overview
-This project analyzes unemployment rates across different demographic groups in the United States. It utilizes various statistical modeling techniques and data visualization methods to explore trends, disparities, and the impact of policy changes on unemployment.
+🧠 What’s Included
+Jupyter Notebook:
+Unemployment Rate - Demographic Analysis.ipynb
+Contains the full analysis pipeline including:
 
-## Project Structure
-The project consists of the following files:
+- Data preprocessing and cleaning
+- Visualization of unemployment trends by age, sex, and race
+- Time series decomposition
+- SARIMA and VAR model implementation
+- Forecasting and interpretation of results
 
-- **analysis.ipynb**: A Jupyter notebook containing the code and analysis for the unemployment demographic analysis. It includes data visualization, statistical modeling, and various analyses related to unemployment rates across different demographic groups.
+Policy Summary:
+Policy_Changes_Unemployment_Summary.txt & works_cited
+- A contextual overview of major U.S. policy events (2009–2021) that may have influenced unemployment trends, including stimulus acts and macroeconomic conditions.
 
-- **README.md**: This documentation file provides an overview of the project, instructions on how to run the analysis, and any necessary background information.
+🔧 Tools & Libraries
+- pandas, numpy for data manipulation
+- matplotlib, seaborn for visualization
+- statsmodels for SARIMA/VAR modeling
+- jupyter for interactive analysis and presentation
 
-- **requirements.txt**: A file listing the Python packages required to run the Jupyter notebook. It specifies the dependencies that need to be installed in the Python environment.
+📈 Skills Demonstrated
+- Economic time series forecasting
+- Statistical modeling (SARIMA, VAR)
+- Data visualization and trend analysis
+- Contextual policy integration with quantitative data
+- Report-ready formatting and project presentation
 
-- **data/**: This directory contains the following data files:
-  - **monthly.csv**: A CSV file containing the monthly unemployment rate data used in the analysis, structured with date and unemployment rate columns.
-  - **README.txt**: A file providing information about the data files in the `data` directory, including descriptions of the datasets and any relevant notes.
-  - **us_presidents_since_2004.csv**: A CSV file containing data on U.S. presidents since 2004, which may be used to analyze the impact of presidential terms on unemployment rates.
-
-- **docs/**: This directory contains the following documentation file:
-  - **Policy_Changes_Unemployment_Summary.txt**: A text file summarizing policy changes related to unemployment, providing context for the analysis in the notebook.
-
-## Instructions
-1. **Setup Environment**: Ensure you have Python installed. Create a virtual environment and activate it.
-2. **Install Dependencies**: Run the following command to install the required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-3. **Run the Analysis**: Open the `analysis.ipynb` notebook in Jupyter Notebook or JupyterLab and execute the cells to perform the analysis.
-
-## Additional Notes
-- Ensure that the data files are correctly placed in the `data` directory for the analysis to run smoothly.
-- The project can be extended by integrating additional datasets or enhancing the analysis with more advanced statistical techniques.
-
-## Packaging
-To package this project for upload to GitHub or embedding on a website, follow these steps:
-1. Create a folder named `unemployment-demographic-analysis` and place all the files inside it.
-2. Inside the `unemployment-demographic-analysis` folder, create two subfolders: `data` and `docs`, and move the respective folders into them.
-3. Compress the `unemployment-demographic-analysis` folder into a zip file for easy upload.
+🔗 View the Full Notebook
+  📂 Open the notebook directly in GitHub to view code, charts, and commentary:
+  Unemployment Rate - Demographic Analysis.ipynb
