@@ -92,4 +92,4 @@ This project is licensed under the MIT License — feel free to use, adapt, or s
 Omar Pelcastre
 📫 [LinkedIn](https://www.linkedin.com/in/opelcastre/)
 📁 [Portfolio](https://github.com/o-pelcastre)
-🌐 [Website](omarpelcastrecabrera.com)
+🌐 [Website](https://www.omarpelcastrecabrera.com)
